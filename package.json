@@ -19,5 +19,8 @@
     "http": "^0.0.1-security",
     "mongoose": "^7.3.0",
     "nodemon": "^2.0.22"
+  },
+   "engines": {
+    "node": ">=14.20.1"
   }
 }
